@@ -1,3 +1,4 @@
+#Negative Image
 import cv2
 img = cv2.imread("mono.jpg",0)      
 h,w = img.shape
