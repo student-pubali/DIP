@@ -1,3 +1,4 @@
+#Erosion
 import cv2
 import numpy as np
 def erotion(image,structEle,iter):
