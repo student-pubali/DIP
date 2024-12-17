@@ -1,3 +1,4 @@
+#Prewitt edge detection
 import cv2,numpy as np
 
 img=cv2.imread("lines.png",0)
