@@ -1,3 +1,4 @@
+#Diagonal edges +45,-45
 import cv2
 import numpy as np
 
