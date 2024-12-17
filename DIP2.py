@@ -1,3 +1,4 @@
+#Contrast Stretching
 import numpy as np
 import cv2
 img = cv2.imread("low_cont1.png",0)
